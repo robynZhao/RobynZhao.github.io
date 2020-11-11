@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
   name: University of Manitoba
-  dates: 2016 - Currently
-  qualification: Bachelor of Computer Science, Major (Co-op) 
+  dates: 2016 - 2020
+  qualification: BSc. Computer Science, Major (Co-op) 
 #   quote: >
 #     Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
