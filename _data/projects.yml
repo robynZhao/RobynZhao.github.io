@@ -1,9 +1,11 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Cook-eBook
+  github: https://github.com/robynZhao/cook-e-book 
   quote: >
-    Short overview of the project (optional)
+    An academic Android Application project 
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    * Built a recipe management system application to store, view and share a personal collection of recipes in a group of 5.      
+    * Designed and implemented a 3-tier architecture application, including presentation, business logic and persistence layer.      
+    * Conducted unit, integration and system tests for objects and business logic methods by Espresso.      
+    * Implemented true databases instead of mock data.     
