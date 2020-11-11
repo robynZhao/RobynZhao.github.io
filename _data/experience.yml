@@ -4,8 +4,8 @@
   link: https://www.investorsgroup.com/
   job_title: Data Developer, Co-op Work Term III
   dates: Jun 2020 – August 2020
-  quote: >
-   Short description of the company (optional)
+#   quote: >
+#    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     * Created dynamic dashboards for business reports by Tableau and SAP Webi.      
     * Provided technical specifications to create Tableau dashboard.     
@@ -15,8 +15,8 @@
   link: https://pricelinepartnernetwork.com/ 
   job_title: Software Developer, Co-op Work Term II
   dates: September 2019 – December 2019
-  quote: >
-   Short description of the company (optional)
+#   quote: >
+#    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     * Built global config files for Priceline partners to reflect each of their characteristics.    
     * Created and updated components by React, refactored methods and tested results in a sandbox.      
@@ -28,8 +28,8 @@
   link: https://www.varian.com/
   job_title: Software Developer, Co-op Work Term I
   dates: January 2019 – April 2019
-  quote: >
-   Short description of the company (optional)
+#   quote: >
+#    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     * Implemented features and fixed defects of UI by Angular, and created unit tests.      
     * Created and updated automated E2E tests under different environments by Protractor.js.     
