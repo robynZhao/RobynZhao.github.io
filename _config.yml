@@ -35,17 +35,17 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Ruoshi. I will be graduating from University of Manitoba in December 2020 with BSc. of Computer Science (Co-op) degree. I am interested in software development, including both front-end and back-end development. 
   
-  Here are some of my technical skills:      
-    | Programming Languages        | Technical Services           | Testing / Frameworks  |
-    | ---------------------------- | ---------------------------- | --------------------- |
-    | Java                         | Node.js                      | Junit 5               |
-    | React                        | RESTful API                  | Jest and Enzyme       |
-    | Angular 7                    | Git                          | Protractor.js         |
-    | JavaScript                   | Android Studio               | REST Assured          | 
-    | Python                       | JetBrains developer tools    | Espresso              |
-    | SQL                          | SAP BusinessObjects / Tableau| Storybook             | 
-    | C/C++                        |                              |                       |
-    | Ruby                         |                              |                       |
+  Here are some of my technical skills:        
+    | Programming Languages        | Technical Services           | Testing / Frameworks  |     
+    | ---------------------------- | ---------------------------- | --------------------- |     
+    | Java                         | Node.js                      | Junit 5               |     
+    | React                        | RESTful API                  | Jest and Enzyme       |      
+    | Angular 7                    | Git                          | Protractor.js         |      
+    | JavaScript                   | Android Studio               | REST Assured          |        
+    | Python                       | JetBrains developer tools    | Espresso              |       
+    | SQL                          | SAP BusinessObjects / Tableau| Storybook             |       
+    | C/C++                        |                              |                       |      
+    | Ruby                         |                              |                       |      
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -58,10 +58,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+# more_content: | # this will include new lines to allow paragraphs
+#   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
