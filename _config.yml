@@ -33,13 +33,17 @@ linkedin_username: ruoshi-z-a4b495172
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Hi, I am Ruoshi. I will be graduating from University of Manitoba in December 2020 with BSc. of Computer Science (Co-op) degree. I am interested in software development, including both front-end and back-end development. 
+  
+  Here are some of my technical skills: 
+    | Programming Languages        | Technical Services           | Testing / Frameworks  |
+    | ---------------------------- |:----------------------------:| ---------------------:|
+    | Java                         | Node.js                      | Junit 5               |
+    | React                        | RESTful API                  |   Jest and Enzyme     |
+    | Angular 7                    | Git                          | Protractor.js         |
+    | JavaScript                   | Android Studio               | REST Assured          | 
+    | Python                       | JetBrains developer tools    | Espresso              |
+    | SQL                          | SAP BusinessObjects / Tableau| Storybook             |
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
