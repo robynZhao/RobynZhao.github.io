@@ -1,9 +1,29 @@
 # Experience template
 - layout: left
-  company: Company name
+  company: Investors Groups Management Financial Inc.
   link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  job_title: Data Developer, Co-op Work Term III
+  dates: Jun 2020 – August 2020
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role 
+
+- layout: left
+  company: Priceline Partner Network
+  link: Link to company (optional)
+  job_title: Software Developer, Co-op Work Term II
+  dates: September 2019 – December 2019
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+    
+ - layout: left
+  company: Varian Medical Systems Canada Inc.
+  link: Link to company (optional)
+  job_title: Software Developer, Co-op Work Term I
+  dates: January 2019 – April 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
