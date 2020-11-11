@@ -35,6 +35,7 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Ruoshi. I will be graduating from University of Manitoba in December 2020 with BSc. of Computer Science (Co-op) degree. I am interested in software development, including both front-end and back-end development.
   
+  Here are some of my technical skills:
   | Programming Languages        | Technical Services           | Testing / Frameworks  |
   | ------------- |:-------------:| -----:|
   | Java       | Node.js | Junit 5 |
@@ -44,9 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
   | Python      |   JetBrains developer tools    |  Espresso  |
   | SQL  |   SAP BusinessObjects / Tableau    |  Storybook   |
   | C/C++       |  |  |
-  | Ruby      |       |    |
-  
-  Here are some of my technical skills:    
+  | Ruby      |       |    |    
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
