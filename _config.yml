@@ -37,7 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Here are some of my technical skills:        
     | Programming Languages        | Technical Services           | Testing / Frameworks  |     
-    | ---------------------------- | ---------------------------- | --------------------- |     
+    | -------------------------| :-------------------:| --------------------: |     
     | Java                         | Node.js                      | Junit 5               |     
     | React                        | RESTful API                  | Jest and Enzyme       |      
     | Angular 7                    | Git                          | Protractor.js         |      
