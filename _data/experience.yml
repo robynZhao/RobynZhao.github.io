@@ -1,30 +1,37 @@
 # Experience template
 - layout: left
   company: Investors Groups Management Financial Inc.
-  link: Link to company (optional)
+  link: https://www.investorsgroup.com/
   job_title: Data Developer, Co-op Work Term III
   dates: Jun 2020 – August 2020
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role 
+    * Created dynamic dashboards for business reports by Tableau and SAP Webi.      
+    * Provided technical specifications to create Tableau dashboard.     
 
 - layout: left
   company: Priceline Partner Network
-  link: Link to company (optional)
+  link: https://pricelinepartnernetwork.com/ 
   job_title: Software Developer, Co-op Work Term II
   dates: September 2019 – December 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    * Built global config files for Priceline partners to reflect each of their characteristics.    
+    * Created and updated components by React, refactored methods and tested results in a sandbox.      
+    * Implemented features and fixed multiple bugs on UI, and wrote unite tests with Jest and Enzyme.      
+    * Created detailed documents for developer environment setup and solutions to common problems.       
     
 - layout: left
   company: Varian Medical Systems Canada Inc.
-  link: Link to company (optional)
+  link: https://www.varian.com/
   job_title: Software Developer, Co-op Work Term I
   dates: January 2019 – April 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    * Implemented features and fixed defects of UI by Angular, and created unit tests.      
+    * Created and updated automated E2E tests under different environments by Protractor.js.     
+    * Maintained services with Java to increase application efficiency, such as refactoring module files and optimizing data prefetching with new functions.      
+    * Created API tests for new features on client-side with JUnit 5, and on server-side with REST Assured.      
