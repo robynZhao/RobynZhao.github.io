@@ -34,7 +34,14 @@ linkedin_username: ruoshi-z-a4b495172
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Ruoshi. I will be graduating from University of Manitoba in December 2020 with BSc. of Computer Science (Co-op) degree. I am interested in software development, including both front-end and back-end development.    
-  Here are some of my technical skills:        
+  Here are some of my technical skills:    
+  | Tables        | Are           | Cool  |
+  | ------------- |:-------------:| -----:|
+  | col 3 is      | right-aligned | $1600 |
+  | col 2 is      | centered      |   $12 |
+  | zebra stripes | are neat      |    $1 |
+  
+  ??
   | Programming Languages        | Technical Services           | Testing / Frameworks  |     
   | ---    | ---  | ---   |         
   | Java                         | Node.js                      | Junit 5               |     
