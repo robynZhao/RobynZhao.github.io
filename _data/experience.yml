@@ -19,7 +19,7 @@
   description: | # this will include new lines to allow paragraphs
     Description of role
     
- - layout: left
+- layout: left
   company: Varian Medical Systems Canada Inc.
   link: Link to company (optional)
   job_title: Software Developer, Co-op Work Term I
